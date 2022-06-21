@@ -1,2 +1,3 @@
 # fastai
-"We've seen record-breaking results with &lt;50 items of data"
+
+> [link to google collabs for each excersize](https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab))
