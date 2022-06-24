@@ -14,4 +14,4 @@ All these concepts apply to machine learning in general. That is, they apply to 
 
 > ALL CONTENT IN THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY
 
-> ALL IMAGE SOURCES FOR IMAGES IN [/m_mushrooms](/m_mushrooms/) ARE FILED UNDER [/SOURCES.json](/SOURCES.json)
+> ALL IMAGE SOURCES FOR IMAGES IN [/Psilocybe](/m_mushrooms/) ARE FILED UNDER [/SOURCES.json](/SOURCES.json)
