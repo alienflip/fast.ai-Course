@@ -13,3 +13,5 @@ When we train a model, a key concern is to ensure that our model generalizes—t
 All these concepts apply to machine learning in general. That is, they apply to all sorts of schemes for defining a model by training it with data. What makes deep learning distinctive is a particular class of architectures: the architectures based on neural networks. In particular, tasks like image classification rely heavily on convolutional neural networks, which we will discuss shortly.
 
 > ALL CONTENT IN THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY
+
+> ALL IMAGE SOURCES FOR IMAGES IN `/m_mushrooms`ARE FILED UNDER `/SOURCES.json`
