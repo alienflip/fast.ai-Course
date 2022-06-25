@@ -4,7 +4,7 @@
 
 - Outline of ML by authors of fast.ai 
 
-> [ML_explained](./ML_explained.txt)
+`[ML_explained](./ML_explained.txt)`
 
 - Nitty-Gritty: Where do we start, model building wise?
 
