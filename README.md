@@ -20,7 +20,7 @@ Remember to make a baseline model (mean) before attempting to build something mo
 
 - 2
 
-Where does the magic happen, computationally? Well, we batch data correctly into the `DataLoaders` class for GPU acceleration
+Where does the magic happen, computationally? Well, we batch data correctly into the `DataLoaders` class for GPU acceleration. NOTE-TO-SELF: explore here!
 
 > ALL CONTENT IN THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY
 
