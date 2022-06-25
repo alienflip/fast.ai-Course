@@ -18,6 +18,10 @@ All these concepts apply to machine learning in general. That is, they apply to 
 
 Remember to make a baseline model (mean) before attempting to build something more advanced! Example: in MNIST, the baseline would be a model that is trained to recognise the average of pixels in a training set.
 
+- 2
+
+Where does the magic happen, computationally? Well, we batch data correctly into the `DataLoaders` class for GPU acceleration
+
 > ALL CONTENT IN THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY
 
 > ALL IMAGE SOURCES FOR IMAGES IN [/Psilocybe](/Psilocybe/) ARE FILED UNDER [/SOURCES.json](/SOURCES.json)
