@@ -2,9 +2,7 @@
 
 > ALL CONTENT IN THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY
 
-- Outline of ML by authors of fast.ai 
-
-`[ML_explained](./ML_explained.txt)`
+- [Outline of ML](./ML_explained.txt) by authors of fast.ai 
 
 - Nitty-Gritty: Where do we start, model building wise?
 
