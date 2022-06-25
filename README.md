@@ -4,7 +4,7 @@
 
 - [Outline of ML](./ML_explained.txt) by authors of fast.ai 
 
-- Nitty-Gritty: Where do we start, model building wise?
+- Where do we start, model building wise?
 
 ```
 Remember to make a baseline model (mean) before attempting to build something more advanced (multi-layered-perceptron/layered-MLP: ResNet, LTST, GPT, etc.)! Example: in MNIST, the baseline would be a model that is trained to recognise the average of pixels in a training set.
