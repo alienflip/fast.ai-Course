@@ -25,7 +25,8 @@ What is a predictive model in the Deep Learning world which is viable investment
 - ML, Mushrooms and Mental Health
 
 ```
-The question: How can we provide systematic evidence for or against the adpotion of psylocybe treatment for mental health diseases in a way that:
+The problem: the datasets for patient success in an offical capacity for psylocybe treatment are too small for systematic change
+Question: How can we provide systematic evidence for or against the adpotion of psylocybe treatment for mental health diseases in a way that:
 
   - does not discredit the academics researching 
 
