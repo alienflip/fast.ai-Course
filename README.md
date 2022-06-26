@@ -31,7 +31,7 @@ The question: How can we provide systematic evidence for or against the adpotion
 
   - that is safe for the patients 
 
-  - is data heavy enough to provide reasonable argumentation to bring in experts from other cultures to provide further support in treatment conditions
+  - is data heavy enough to provide reasonable argumentation to bring in experts from other cultures to provide further support in treatment conditions, and not be questioned in doing so by the powers that be
 ```
 
 > ALL IMAGE SOURCES FOR IMAGES IN [/Psilocybe](/Psilocybe/) ARE FILED UNDER [/SOURCES.json](/SOURCES.json)
