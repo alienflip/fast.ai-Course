@@ -1,2 +1,8 @@
 https://github.com/alienflip/Adventures/blob/main/DeepEnv/risk.ipynb
 https://journals.sagepub.com/doi/abs/10.1177/0269881110382466
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6007659/#i2168-9709-7-1-24-b08
+
+The question: How can we provide systematic evidence for or against the adpotion of psylocybe treatment for mental health diseases in a way that:
+  - does not discredit the academics researching 
+  - that is safe for the patients 
+  - is data heavy enough to provide reasonable argumentation to bring in experts from other cultures to provide further support in treatment conditions
