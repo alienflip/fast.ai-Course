@@ -22,7 +22,7 @@ What is a predictive model in the Deep Learning world which is viable investment
 - In order to cut out the advertising agents and avoid further collapse of civilisation, the data should be hidden. The problem here is that: how can a user trust that the computer is providing the correct work on their data? The future of this process will likely involve ZKP, where we can verify that a calculation is done fairly without any trust or revealing the data itself. This allows for a truly tustless and anonymous economic system where real work is rewarded and malicious actors are destroyed.
 ```
 
-- ML, Mushrooms and Mental Health
+- ML && Mental Health
 
 ```
 Question: How can we provide systematic evidence for or against the adpotion of psylocybe treatment for mental health diseases in a way that:
