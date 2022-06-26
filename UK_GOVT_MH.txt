@@ -1,1 +1,2 @@
 https://github.com/alienflip/Adventures/blob/main/DeepEnv/risk.ipynb
+https://journals.sagepub.com/doi/abs/10.1177/0269881110382466
