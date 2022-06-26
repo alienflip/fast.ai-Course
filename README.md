@@ -36,3 +36,5 @@ Note: he datasets for patient success in an offical capacity for psylocybe treat
 ```
 
 > ALL IMAGE SOURCES FOR IMAGES IN [/Psilocybe](/Psilocybe/) ARE FILED UNDER [/SOURCES.json](/SOURCES.json)
+
+> ALL PATIENT DATA SOURCES IN [/Mental Health](/MH/) ARE FILED UNDER [/GOVT_MH_RESEARCH.json](/GOVT_MH_RESEARCH.json)
