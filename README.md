@@ -8,6 +8,8 @@
 
 ```
 Remember to make a baseline model (mean) before attempting to build something more advanced (multi-layered-perceptron/layered-MLP: ResNet, LTST, GPT, etc.)! Example: in MNIST, the baseline would be a model that is trained to recognise the average of pixels in a training set.
+
+A validation set is data we hold back from training in order to ensure that the training process does not overfit on the training data. A test set is data that is held back even more deeply, from us ourselves, in order to ensure that we don't overfit on the validation data, as we explore various model architectures and hyperparameters.
 ```
 
 - A positive sum game
