@@ -2,7 +2,7 @@
 
 > ALL CONTENT IN THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY
 
-- [Outline of ML](./ML_explained.txt) by authors of fast.ai 
+- [Outline of ML](Notes/ML_explained.txt) by authors of fast.ai 
 
 - Where do we start, model building wise?
 
