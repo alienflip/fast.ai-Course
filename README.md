@@ -37,6 +37,6 @@ Note: he datasets for patient success in an offical capacity for psylocybe treat
   - is data heavy enough to provide reasonable argumentation to bring in experts from other cultures to provide further support in treatment conditions, and not be questioned in doing so by the powers that be
 ```
 
-> ALL IMAGE SOURCES FOR IMAGES IN [/Psilocybe](/Psilocybe/) ARE FILED UNDER [/SOURCES.json](/SOURCES.json)
+> ALL IMAGE SOURCES FOR IMAGES IN [/Psilocybe](/Psilocybe/) ARE FILED UNDER [Sources/SOURCES.json](Sources/SOURCES.json)
 
-> ALL PATIENT DATA SOURCES IN [/Mental Health](/MH/) ARE FILED UNDER [/GOVT_MH_RESEARCH.json](/GOVT_MH_RESEARCH.json)
+> ALL PATIENT DATA SOURCES IN [/Mental Health](/MH/) ARE FILED UNDER [Sources/GOVT_MH_RESEARCH.json](Sources/GOVT_MH_RESEARCH.json)
